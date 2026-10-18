@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "6034a86e999e6d43f4c8f1ff",
+  "owner": "uedepyts",
+  "repo": "page-aa28b5afc31098cad5c5b3e8",
+  "title": "SEWER",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "aa28b5afc31098cad5c5b3e8",
+      "a": "SEWER",
+      "b": "",
+      "entity": "SEWER",
+      "brand": "SEWER",
+      "separator": "",
+      "path": "index.html",
+      "hash": "ae230b55224436d6eda2ab051e0a8e9b537cb1790598a6cd49ccaf2e60e202fa",
+      "content": {
+        "keyword1": "SEWER",
+        "keyword2": "",
+        "primary_entity": "SEWER",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "SEWER 是一个专注于网络连接工具的小型工作室品牌。我们把繁琐的节点、线路与套餐选择写成一组问答，帮助你像修缮一段旧管那样，把网络接好。下面是完整的使用说明、套餐纵向列表与常见问题解答。",
+          "AI_DESCRIPTION": "SEWER 是一个专注于网络连接工具的小型工作室品牌。我们把繁琐的节点、线路与套餐选择写成一组问答，帮助你像修缮一段旧管那样，把网络接好。下面是完整的使用说明、套餐纵向列表与常见问题解答。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}\nhtml{}\nbody{font-family:-apple-system,BlinkMacSystemFont,\"PingFang SC\",\"Helvetica Neue\",\"Microsoft YaHei\",sans-serif;background:#2f3438;color:#d8dfe3;line-height:1.7;-webkit-font-smoothing:antialiased}\na{color:#7fc7c9;text-decoration:none;border-bottom:1px dotted rgba(127,199,201,.4)}\na:hover{color:#a8e0e1;border-bottom-color:#a8e0e1}\nh1,h2,h3{font-weight:600;letter-spacing:.01em;color:#eef2f4}\nh1{font-size:clamp(2.2rem,4.6vw,3.6rem);line-height:1.15;margin-bottom:1rem}\nh2{font-size:clamp(1.5rem,2.4vw,1.9rem);margin-bottom:.8rem;padding-bottom:.4rem;border-bottom:1px solid rgba(127,199,201,.18)}\nh3{font-size:1.1rem;margin-bottom:.4rem;color:#7fc7c9}\np{margin-bottom:1rem;font-size:.98rem}\n.wrap{max-width:980px;margin:0 auto;padding:0 1.4rem}\n.crumbs{padding:1rem 1.4rem;border-bottom:1px solid rgba(127,199,201,.12);font-size:.82rem;color:#8a949a;background:#292d31}\n.crumbs a{color:#7fc7c9;border-bottom:none}\n.crumbs .sep{margin:0 .5rem;opacity:.4}\n.toc{display:flex;flex-wrap:wrap;gap:.4rem .8rem;margin-top:.6rem;font-size:.78rem}\n.toc a{color:#8a949a;border-bottom:1px dashed rgba(127,199,201,.3);padding-bottom:1px}\n.toc a:hover{color:#7fc7c9}\nmain{padding:2rem 0 4rem}\n.hero{padding:2.5rem 0 3rem;border-bottom:1px solid rgba(127,199,201,.1)}\n.hero .kicker{font-size:.82rem;letter-spacing:.18em;text-transform:uppercase;color:#7fc7c9;margin-bottom:1rem}\n.hero .lede{font-size:1.02rem;color:#b9c2c6;max-width:62ch}\n.hero .byline{margin-top:1.6rem;font-size:.82rem;color:#8a949a;font-style:italic}\nsection{padding:2.4rem 0;border-bottom:1px solid rgba(127,199,201,.08)}\nsection:last-child{border-bottom:none}\n.section-num{display:inline-block;font-size:.74rem;letter-spacing:.2em;color:#7fc7c9;margin-bottom:.4rem;text-transform:uppercase}\n.intro-grid{display:grid;grid-template-columns:1fr;gap:1.2rem;margin-top:1.2rem}\n@media(min-width:720px){.intro-grid{grid-template-columns:1.4fr 1fr;gap:2rem}}\n.pull{background:#292d31;border-left:3px solid #7fc7c9;padding:1rem 1.2rem;font-style:italic;color:#cfd6d9;margin:1rem 0}\n.timeline{counter-reset:step;margin-top:1.4rem}\n.step{position:relative;padding:1rem 0 1.2rem 3rem;border-bottom:1px dashed rgba(127,199,201,.15);counter-increment:step}\n.step:last-child{border-bottom:none}\n.step::before{content:counter(step,decimal-leading-zero);position:absolute;left:0;top:1rem;font-size:1.8rem;font-weight:600;color:rgba(127,199,201,.2);line-height:1}\n.step h3{color:#eef2f4;margin-bottom:.3rem;font-size:1.02rem}\n.plans{list-style:none;margin-top:1.4rem}\n.plan{position:relative;display:grid;grid-template-columns:1fr;gap:.4rem;padding:1.4rem 1.2rem 1.4rem 5.2rem;border-bottom:1px solid rgba(127,199,201,.1);background:#2a2f33;margin-bottom:-1px}\n@media(min-width:720px){.plan{grid-template-columns:1fr 1.2fr 1fr 0.8fr;align-items:center;gap:1.4rem;padding:1.4rem 1.4rem 1.4rem 6rem}}\n.plan .num{position:absolute;left:.8rem;top:1.2rem;font-size:2.6rem;font-weight:700;color:rgba(127,199,201,.12);line-height:1;letter-spacing:-.02em}\n@media(min-width:720px){.plan .num{font-size:3.2rem;left:1rem;top:50%;transform:translateY(-50%)}}\n.plan .pname{font-size:1.15rem;font-weight:600;color:#eef2f4}\n.plan .pprice{font-size:.95rem;color:#7fc7c9;font-variant-numeric:tabular-nums}\n.plan .pannual{font-size:.8rem;color:#8a949a;margin-top:.2rem}\n.plan .pfeat{font-size:.86rem;color:#b9c2c6}\n.plan .pfeat ul{list-style:none}\n.plan .pfeat li{padding-left:1rem;position:relative;margin-bottom:.3rem}\n.plan .pfeat li::before{content:\"·\";position:absolute;left:0;color:#7fc7c9;font-weight:700}\n.plan .ptag{font-size:.74rem;letter-spacing:.15em;color:#2f3438;background:#7fc7c9;padding:.25rem .6rem;text-transform:uppercase;text-align:center;align-self:start;justify-self:start;margin-top:.4rem}\n.plan.featured{background:linear-gradient(90deg,#2a2f33 0%,#2f3438 60%,#2a2f33 100%);border-left:2px solid #7fc7c9}\n.clients{display:grid;grid-template-columns:1fr;gap:.8rem;margin-top:1rem}\n.client{padding:.8rem 1rem;border:1px solid rgba(127,199,201,.12);font-size:.88rem;color:#b9c2c6;display:flex;justify-content:space-between;flex-wrap:wrap;gap:.4rem}\n.client span{color:#7fc7c9;font-size:.78rem}\n.faq{counter-reset:faq;margin-top:1rem}\n.faq-item{padding:1rem 0 1.2rem;border-bottom:1px dashed rgba(127,199,201,.12);counter-increment:faq;position:relative;padding-left:3.2rem}\n.faq-item::before{content:counter(faq,decimal-leading-zero);position:absolute;left:0;top:1rem;font-size:1.4rem;font-weight:600;color:rgba(127,199,201,.25)}\n.faq-item h3{color:#eef2f4;font-size:1rem;margin-bottom:.4rem}\n.faq-item p{color:#b9c2c6;font-size:.92rem;margin-bottom:0}\nfooter{padding:2rem 1.4rem;border-top:1px solid rgba(127,199,201,.12);font-size:.78rem;color:#8a949a;text-align:center}\nfooter nav{display:flex;flex-wrap:wrap;justify-content:center;gap:.4rem .8rem;margin-bottom:.8rem}\nfooter nav a{border-bottom:none;color:#7fc7c9;font-size:.78rem}\n.note{font-size:.82rem;color:#8a949a;background:#292d31;padding:.8rem 1rem;border-left:2px solid rgba(127,199,201,.3);margin-top:1.4rem}\n</style><div class=\"crumbs\">\n<div class=\"wrap\">\n<div>SEWER <span class=\"sep\">/</span> 主页 <span class=\"sep\">/</span> 工具说明与套餐</div>\n<nav class=\"toc\" aria-label=\"目录\">\n<a href=\"#origin\">从何说起</a>\n<a href=\"#steps\">上手四步</a>\n<a href=\"#plans\">套餐列表</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#faq\">常见问题</a>\n</nav>\n</div>\n</div>\n\n<main>\n\n<section class=\"hero\" id=\"origin\">\n<div class=\"wrap\">\n<span class=\"kicker\">专栏 · 第 0583 期</span>\n<h1>SEWER · 像修缮一段旧管那样，把网络接好</h1>\n<p class=\"lede\">SEWER 名字取自英文中那种埋在地下的管道。我们做的是一件类似的事——把各种散落的节点、线路和配置理顺，让它在你按下连接键时安静地工作。这篇文章用问答的方式，把我们最常被问到的事情写下来。</p>\n<p class=\"byline\">写于 SEWER 编辑部 · 阅读约 6 分钟</p>\n</div>\n</section>\n\n<section id=\"steps\">\n<div class=\"wrap\">\n<span class=\"section-num\">第一段 · 上手</span>\n<h2>从下载到连上，一共四步</h2>\n<p>很多第一次接触网络工具的朋友，会被各种名词劝退。下面是一个最短路径，照着做就行，遇到问题再翻后面的问答部分。</p>\n\n<div class=\"timeline\">\n<div class=\"step\">\n<h3>下载合适的客户端</h3>\n<p>根据你常用的设备，到「客户端」那一节挑一个。先看系统，再看维护状态，不挑最新，挑最稳的那个版本。</p>\n</div>\n<div class=\"step\">\n<h3>导入或粘贴订阅地址</h3>\n<p>在 SEWER 用户中心找到你的订阅链接，复制后到客户端里「从剪贴板导入」即可。订阅地址里已经写好了你能用的节点和线路。</p>\n</div>\n<div class=\"step\">\n<h3>选择节点，点连接</h3>\n<p>第一次我们建议选延迟最低的节点试一次。等熟悉之后再按用途挑——比如看视频选带宽大的，玩游戏选专线。</p>\n</div>\n<div class=\"step\">\n<h3>遇到问题，先看 FAQ</h3>\n<p>九成问题在 FAQ 里都有现成答案。比如连不上、速度慢、订阅不更新，每一条都配了对应的处理办法。</p>\n</div>\n</div>\n</div>\n</section>\n\n<section id=\"plans\">\n<div class=\"wrap\">\n<span class=\"section-num\">第二段 · 价格</span>\n<h2>套餐列表：纵向展开，按需取用</h2>\n<p>下面三档套餐是我们目前唯一在售的版本，按月付或年付都可以，年付价格写在每一档右侧。所有套餐都不绑定设备品牌，到手后可以在任意支持的客户端上登录。</p>\n\n<ul class=\"plans\">\n<li class=\"plan\">\n<span class=\"num\">01</span>\n<div>\n<div class=\"pname\">基础版</div>\n<div class=\"pannual\">适合个人轻量使用</div>\n</div>\n<div class=\"pprice\">\n<div>¥15 / 月</div>\n<div class=\"pannual\">按年付仅需 ¥150 / 年</div>\n</div>\n<div class=\"pfeat\">\n<ul>\n<li>每月 100GB 高速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n</div>\n<div></div>\n</li>\n\n<li class=\"plan featured\">\n<span class=\"num\">02</span>\n<div>\n<div class=\"pname\">旗舰版</div>\n<div class=\"pannual\">多数人最终停在的这一档</div>\n</div>\n<div class=\"pprice\">\n<div>¥35 / 月</div>\n<div class=\"pannual\">按年付仅需 ¥350 / 年</div>\n</div>\n<div class=\"pfeat\">\n<ul>\n<li>每月 300GB 高速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7×24 优先工单支持</li>\n</ul>\n</div>\n<div class=\"ptag\">推荐</div>\n</li>\n\n<li class=\"plan\">\n<span class=\"num\">03</span>\n<div>\n<div class=\"pname\">团队版</div>\n<div class=\"pannual\">小型团队 / 工作室</div>\n</div>\n<div class=\"pprice\">\n<div>¥85 / 月</div>\n<div class=\"pannual\">按年付仅需 ¥850 / 年</div>\n</div>\n<div class=\"pfeat\">\n<ul>\n<li>每月 1000GB 高速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n</div>\n<div></div>\n</li>\n</ul>\n\n<p class=\"note\">价格与权益说明：以上价格为示例定价，最终以下单页面显示为准。年付相比月付大约节省两个月费用，可在结算页选择。已购买的流量按自然月重置，未用完部分不结转。</p>\n</div>\n</section>\n\n<section id=\"clients\">\n<div class=\"wrap\">\n<span class=\"section-num\">第三段 · 工具</span>\n<h2>客户端：选哪个，看系统</h2>\n<p>SEWER 本身不绑定某一个客户端，我们在用户中心提供了几种主流方案的配置说明。你可以根据自己的设备挑一个最顺手的，下面是常见组合。</p>\n\n<div class=\"clients\">\n<div class=\"client\">macOS · 原生支持 <span>用户中心 · 配置指南</span></div>\n<div class=\"client\">Windows 10 / 11 <span>用户中心 · 配置指南</span></div>\n<div class=\"client\">iOS · App Store 版本 <span>用户中心 · 配置指南</span></div>\n<div class=\"client\">Android · APK 直装 <span>用户中心 · 配置指南</span></div>\n<div class=\"client\">Linux · 命令行与 GUI <span>用户中心 · 配置指南</span></div>\n<div class=\"client\">路由器 · OpenWrt 插件 <span>用户中心 · 配置指南</span></div>\n</div>\n\n<p class=\"note\">下载地址说明：客户端的具体下载链接请以 SEWER 用户中心登录后页面显示的为准。我们没有在这一页放置外部下载链接，避免指向未经核实的来源。</p>\n</div>\n</section>\n\n<section id=\"faq\">\n<div class=\"wrap\">\n<span class=\"section-num\">第四段 · 问答</span>\n<h2>常见问题，编号查看</h2>\n<p>下面这些是我们后台收到的最高频提问，按照出现顺序排列。如果看完还是没解决，可以到用户中心提交工单。</p>\n\n<div class=\"faq\">\n\n<div class=\"faq-item\">\n<h3>第一次用，应该买哪一档？</h3>\n<p>如果你只是日常浏览、偶尔看视频，基础版足够；如果同时会在多台设备上用、希望有专线节点，旗舰版是大多数用户最终停在的位置；如果是几个人合用、或者工作室场景，再考虑团队版。</p>\n</div>\n\n<div class=\"faq-item\">\n<h3>月付和年付有什么区别？</h3>\n<p>年付一次性扣除 12 个月费用，相比月付大约节省两个月。权益完全一致，只是计费周期不同。任何套餐都支持在到期前升级到更高档，未消耗的天数会自动按比例折算。</p>\n</div>\n\n<div class=\"faq-item\">\n<h3>流量是怎么计算的？</h3>\n<p>所有上下行流量都会被计入，例如看视频、下载文件、同步云盘都在内。浏览网页和文字聊天耗费的流量极小，100GB 通常够一个人日常使用一个月。</p>\n</div>\n\n<div class=\"faq-item\">\n<h3>为什么连上之后速度还是很慢？</h3>\n<p>先换节点试试——很多情况下换到一个离你物理距离更近的节点就会有明显改善。其次检查本地网络，比如 Wi-Fi 信号和路由器负载。如果都正常，再看是不是当前节点被同时使用的人数过多，换到冷门时段或冷门节点。</p>\n</div>\n\n<div class=\"faq-item\">\n<h3>订阅链接会不会泄漏账号？</h3>\n<p>订阅链接里不包含密码明文，登录信息仍然是单独的 token。请不要把订阅链接发到公开的群组或论坛里，因为拿到链接的人就能用你的流量额度。</p>\n</div>\n\n<div class=\"faq-item\">\n<h3>可以同时在几台设备上登录？</h3>\n<p>同一时间在线的设备数取决于你买的套餐。基础版 3 台，旗舰版 5 台，团队版 20 台。超过上限时，最早登录的那台会被自动下线。</p>\n</div>\n\n<div class=\"faq-item\">\n<h3>支持哪些付款方式？</h3>\n<p>下单页面会展示当前可用的支付渠道，常见的有支付宝、微信和部分虚拟币渠道。具体以结算页为准。</p>\n</div>\n\n<div class=\"faq-item\">\n<h3>不想用了，可以退款吗？</h3>\n<p>在购买后短时间内如果还没有大量使用，可以联系客服说明情况，我们会按未使用的天数折算退款。具体规则以用户服务条款为准。</p>\n</div>\n\n<div class=\"faq-item\">\n<h3>节点列表多久更新一次？</h3>\n<p>订阅地址拿到的是最新配置，后台新增或维护节点时，刷新订阅即可看到。通常一周会有若干次小幅调整。</p>\n</div>\n\n<div class=\"faq-item\">\n<h3>遇到技术问题，去哪里找人？</h3>\n<p>基础版和旗舰版都可以在用户中心提交工单；旗舰版享有优先处理，团队版则有专属客户经理直接对接。</p>\n</div>\n\n</div>\n</div>\n</section>\n\n</main>\n\n<footer>\n<nav aria-label=\"页脚导航\">\n<a href=\"#origin\">从何说起</a>\n<a href=\"#steps\">上手四步</a>\n<a href=\"#plans\">套餐列表</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#faq\">常见问题</a>\n</nav>\n<div>SEWER · 一个想把网络接好的小型工作室</div>\n</footer>",
+          "hash": "278fab918e35f1d160c5f0c60380006d6ed94ae3ec1a883203f13fa232d3967e",
+          "seo": {
+            "title": "SEWER · 像修缮一段旧管那样，把网络接好",
+            "keywords": "SEWER,网络工具,使用说明,套餐对比,常见问题,客户端下载",
+            "description": "SEWER 是一个专注于网络连接工具的小型工作室品牌。我们把繁琐的节点、线路与套餐选择写成一组问答，帮助你像修缮一段旧管那样，把网络接好。下面是完整的使用说明、套餐纵向列表与常见问题解答。"
+          },
+          "provider": "grok",
+          "model": "MiniMax-M3",
+          "design": {
+            "no": "5836",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "7 石板灰配青色",
+            "nav": "5 页面顶部面包屑加目录",
+            "card": "5 编号大字压底",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "5 问答引导式",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fkrhm.cn",
+    "host": "p-989102ebc5.fkrhm.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "4aa82591e1dd3155695ee616be74daaf7cc74f472051d1fc926b4b820d2be081",
+    "sitemap.xml": "401eb29f265b550b6b4564d965c070f7c071a79d140d496d111bed89e6708646",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a7613e5f6e8863cbe3d1b277ea7121248394a1bda6466cbf3324960c5f6a5d29",
+    "robots.txt": "a3580d4cf483038c8fb5e24554ad08b0c8af3fe8926db38baf8120ce49853a39",
+    "c544566c01423b890b581999ed5ddd99.txt": "54773809268e6df8607c8303297a6a94cf98ad9dbb0b419816fa839a93f53f49"
+  },
+  "revision": "234e2b45ad3689c2d34f4923d21e5d64bcc9264447be26e2555c6573d28238ec"
+}
